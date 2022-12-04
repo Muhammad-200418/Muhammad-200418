@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  <a>
-    <script src="https://tryhackme.com/badge/1306313"></script>
-  </a>
-</p>
